@@ -1,5 +1,5 @@
-# CO2-Emission-Project
-### How do economic factors of a country correlate to its CO2 emission per capita?
+# Predicting CO2 Emission of a Country
+### How do economic factors correlate to CO2 emission per capita?
 
 The primary objective of this report is to find the relationships (impact) between the economic indicators (apart from GDP) and the CO2 emissions per capita of a country. We focused on the indicators that are related to the economy of a country. These indicators belong to the following groups:
 ● Economic Policy & Debt
