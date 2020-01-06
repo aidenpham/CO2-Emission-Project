@@ -9,7 +9,7 @@ A quick correlation study will be made between the indicators selected and CO2 e
 
 In the Modelling Part, we will build a Bayesian model based on Markov chain using RJAGS package in R. Next, the coefficients obtained by our Bayesian model will be cross-checked against the coefficients from a simple linear model. Finally, posteriors predicted by our model will be compared against actual values (from WDI data) to see whether there is any significant bias.
 
-### Results:
+### Results
 1. The results from the correlation analysis helped us to choose 6 indicators that have high correlation with CO2 emission per capita. These indicators fall into two groups: 1. Value added per worker (productivity) and 2. Percentage of employment in each sector. Out of 6 indicators, 5 have positive correlation while 1 indicator (% employment in agriculture) has negative correlation with CO2 emissions per capita. 
 
 2. Our analysis indicated that North America had the largest CO2/emission per capita, and their productivity per capita was the highest for all sectors. In contrast, the African and South Asian countries have lower emissions and productivity, which also correlates to the lower economic development in these countries.
